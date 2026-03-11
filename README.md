@@ -268,7 +268,16 @@ flutter pub run flutter_launcher_icons
 
 ## License
 
-This project was created for learning and portfolio purposes.
+Kode ini **bebas digunakan** tanpa syarat apapun.
+
+- Boleh dipakai untuk belajar dan dipublikasikan sebagai bahan belajar
+- Boleh dicantumkan di portofolio pribadi **tanpa perlu mencantumkan kredit apapun**
+- Boleh dijual, dikomersilkan, atau didistribusikan dalam bentuk apapun
+- Boleh disalin dan dikembangkan menjadi proyek pribadi maupun komersial
+
+Lihat file [LICENSE](./LICENSE) untuk detail lengkap.
+
+**Kontak:** Instagram [@agungkurniawan.id](https://instagram.com/agungkurniawan.id)
 
 ---
 
